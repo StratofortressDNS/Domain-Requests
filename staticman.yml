@@ -10,6 +10,8 @@ comments:
   filename: "{@id}"
 
   moderation: true
+  
+  format: "json"
 
   path: "_data/comments/{@timestamp}"
 
